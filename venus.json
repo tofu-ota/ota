@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Ralph Chen (Tofu)",
+        "oem": "Xiaomi",
+        "device": "Xiaomi 11",
+        "filename": "riceDroid-7.0-22101212-OFFICIAL-AOSP-venus.zip",
+        "download": "https://sourceforge.net/projects/riceDroid-lahaina/files/venus/AOSP.x/riceDroid-7.0-22101212-OFFICIAL-AOSP-venus.zip/download",
+        "timestamp": 1665578945,
+        "md5": "d5435d89b9ae1efd0010cd48d006a04d",
+        "sha256": "57353de456ebd59b680475e8e5c43171db543fe65560ae0ec4ba97c0b6bf85b1",
+        "size": 1774388094,
+        "version": "AOSP.AOSP",
+        "buildtype": "Monthly",
+        "forum": "https://forum.xda-developers.com/t/rom-tiramisu-venus-official-ricedroid-android-project-aosp.4500419/",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/ralph950412",
+        "dt": "https://github.com/ralph950412/android_device_xiaomi_venus",
+        "common-dt": "https://github.com/ralph950412/android_device_xiaomi_sm8350-common",
+        "kernel": "https://github.com/PixelExperience-Devices/kernel_xiaomi_venus"
+    }
+  ]
+}
