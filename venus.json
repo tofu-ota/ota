@@ -1,1 +1,28 @@
-
+{
+  "response": [
+    {
+        "maintainer": "ralph950412 (Tofu)",
+        "oem": "Xiaomi",
+        "device": "Xiaomi Mi 11",
+        "filename": "crDroidAndroid-12.1-20220706-venus-GMS-v8.6.zip",
+        "download": "https://github.com/tofu-ota/ota/releases/download/8.6-venus_gms-85e14699/crDroidAndroid-12.1-20220706-venus-GMS-v8.6.zip",
+        "timestamp": 1657076085,
+        "md5": "0efe67d57844516554b914912f0efe04",
+        "sha256": "85e14699cc893cce213bb4532a3b936909fb927970daceebfbe801d8d0a36d1b",
+        "size": 1548405730,
+        "version": "GMS.GMS",
+        "buildtype": "Testing",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
